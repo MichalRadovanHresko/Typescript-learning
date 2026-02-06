@@ -9,5 +9,5 @@ function processEvent() {
     }
 }
 reject('...');
-processEvent('Hello');
+processEvent();
 //# sourceMappingURL=theNeverType.js.map
